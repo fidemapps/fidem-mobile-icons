@@ -1,0 +1,19 @@
+{
+    "repo": "fidemapps/fidemicons",
+    "development": {},
+    "version": "0.1.0",
+    "styles": [
+        "css/fidemicons.css"
+    ],
+    "name": "Fidemicons",
+    "dependencies": {},
+    "keywords": [],
+    "license": "MIT",
+    "fonts": [
+        "fonts/fidemicons.eot",
+        "fonts/fidemicons.svg",
+        "fonts/fidemicons.ttf",
+        "fonts/fidemicons.woff"
+    ],
+    "description": "The premium icon font for Fidem 360 Mobile."
+}

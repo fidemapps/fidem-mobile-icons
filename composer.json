@@ -1,0 +1,23 @@
+{
+    "name": "fidemapps/fidem-mobile-icons",
+    "license": [
+        "MIT"
+    ],
+    "extra": {},
+    "authors": [
+        {
+            "role": "Devevloper",
+            "name": "Sebastien Guimont",
+            "email": "sguimont@fidem360.com"
+        }
+    ],
+    "keywords": [
+        "fonts",
+        "icon font",
+        "icons",
+        "fidem",
+        "web font"
+    ],
+    "homepage": "http://fidem360.com/",
+    "description": "The premium icon font for Fidem Mobile."
+}

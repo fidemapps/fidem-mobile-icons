@@ -1,0 +1,72 @@
+{
+  "build_hash": "f8604996dd5d7e0cf54dc575039de202",
+  "prefix": "fidem-",
+  "version": "0.1.0",
+  "name": "Fidemicons",
+  "icons": [
+    {
+      "code": "0xf101",
+      "name": "alert"
+    },
+    {
+      "code": "0xf100",
+      "name": "alert-circled"
+    },
+    {
+      "code": "0xf2c7",
+      "name": "android-add"
+    },
+    {
+      "code": "0xf359",
+      "name": "android-add-circle"
+    },
+    {
+      "code": "0xf35a",
+      "name": "android-alarm-clock"
+    },
+    {
+      "code": "0xf35b",
+      "name": "android-alert"
+    },
+    {
+      "code": "0xf102",
+      "name": "android-apps"
+    },
+    {
+      "code": "0xf103",
+      "name": "android-archive"
+    },
+    {
+      "code": "0xf104",
+      "name": "android-arrow-back"
+    },
+    {
+      "code": "0xf105",
+      "name": "android-arrow-down"
+    },
+    {
+      "code": "0xf107",
+      "name": "android-arrow-dropdown"
+    },
+    {
+      "code": "0xf106",
+      "name": "android-arrow-dropdown-circle"
+    },
+    {
+      "code": "0xf109",
+      "name": "android-arrow-dropleft"
+    },
+    {
+      "code": "0xf108",
+      "name": "android-arrow-dropleft-circle"
+    },
+    {
+      "code": "0xf10b",
+      "name": "android-arrow-dropright"
+    },
+    {
+      "code": "0xf10a",
+      "name": "android-arrow-dropright-circle"
+    }
+  ]
+}

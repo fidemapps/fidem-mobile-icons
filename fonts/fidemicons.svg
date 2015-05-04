@@ -1,0 +1,62 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2015-5-4: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20150501 at Mon May 04 16:16:04 2015
+
+Copyright (c) 2015, Anonymous
+</metadata>
+<defs>
+<font id="Fidemicons" horiz-adv-x="416" >
+  <font-face 
+    font-family="Fidemicons"
+    font-weight="600"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 7 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="-0.484021 -32 448.484 416"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+F100-F35B"
+  />
+    <missing-glyph />
+    <glyph glyph-name="fidemicons-alert-circled" unicode="&#xf100;" horiz-adv-x="448" 
+d="M445 26c3 -5 5 -13 2 -18s-8 -8 -14 -8h-418c-6 0 -11 3 -14 8s-1 13 2 18l207 349c3 5 8 9 14 9s11 -4 14 -9zM256 48v48h-64v-48h64zM256 128v144h-64v-144h64z" />
+    <glyph glyph-name="fidemicons-alert" unicode="&#xf101;" horiz-adv-x="128" 
+d="M128 -32h-128v96h128v-96zM112 128h-96l-16 288h128z" />
+    <glyph glyph-name="fidemicons-android-add-circle" unicode="&#xf359;" 
+d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM315 171v42h-86v86h-42v-86h-86v-42h86v-86h42v86h86z" />
+    <glyph glyph-name="fidemicons-android-add" unicode="&#xf2c7;" horiz-adv-x="320" 
+d="M320 171h-139v-139h-42v139h-139v42h139v139h42v-139h139v-42z" />
+    <glyph glyph-name="fidemicons-android-alarm-clock" unicode="&#xf35a;" horiz-adv-x="428" 
+d="M428 323l-28 -33l-98 82l28 33zM125 373l-97 -83l-28 33l97 83zM225 275v0v-111l85 -50l-16 -27l-101 61v127h32zM214 360c106 0 193 -86 193 -191s-87 -191 -193 -191c-107 0 -193 86 -193 191s86 191 193 191zM214 20c82 0 150 66 150 149c0 82 -68 149 -150 149
+s-150 -67 -150 -149s68 -149 150 -149z" />
+    <glyph glyph-name="fidemicons-android-alert" unicode="&#xf35b;" 
+d="M208 400c114 0 208 -94 208 -208s-94 -208 -208 -208s-208 94 -208 208s94 208 208 208zM232 88v40h-48v-40h48zM232 176v128h-48v-128h48z" />
+    <glyph glyph-name="fidemicons-android-apps" unicode="&#xf102;" horiz-adv-x="320" 
+d="M0 272v80h80v-80h-80zM120 32v80h80v-80h-80zM0 32v80h80v-80h-80zM0 152v80h80v-80h-80zM120 152v80h80v-80h-80zM240 352h80v-80h-80v80zM120 272v80h80v-80h-80zM240 152v80h80v-80h-80zM240 32v80h80v-80h-80z" />
+    <glyph glyph-name="fidemicons-android-archive" unicode="&#xf103;" 
+d="M406 348c7 -7 10 -17 10 -29v-289c0 -25 -21 -46 -46 -46h-324c-25 0 -46 21 -46 46v289c0 12 3 22 10 29l33 39c6 8 16 13 26 13h278c10 0 20 -5 26 -13zM208 65l127 127h-81v46h-92v-46h-81zM49 354h317l-22 23h-277z" />
+    <glyph glyph-name="fidemicons-android-arrow-back" unicode="&#xf104;" horiz-adv-x="342" 
+d="M342 213v-42h-260l119 -120l-30 -30l-171 171l171 171l31 -30l-120 -120h260z" />
+    <glyph glyph-name="fidemicons-android-arrow-down" unicode="&#xf105;" horiz-adv-x="342" 
+d="M192 363v-260l120 120l30 -31l-171 -171l-171 171l30 30l120 -119v260h42z" />
+    <glyph glyph-name="fidemicons-android-arrow-dropdown-circle" unicode="&#xf106;" 
+d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM208 128l96 96h-192z" />
+    <glyph glyph-name="fidemicons-android-arrow-dropdown" unicode="&#xf107;" horiz-adv-x="256" 
+d="M0 256h256l-128 -128z" />
+    <glyph glyph-name="fidemicons-android-arrow-dropleft-circle" unicode="&#xf108;" 
+d="M416 192c0 -115 -93 -208 -208 -208s-208 93 -208 208s93 208 208 208s208 -93 208 -208zM144 192l96 -96v192z" />
+    <glyph glyph-name="fidemicons-android-arrow-dropleft" unicode="&#xf109;" horiz-adv-x="128" 
+d="M128 320v-256l-128 128z" />
+    <glyph glyph-name="fidemicons-android-arrow-dropright-circle" unicode="&#xf10a;" 
+d="M208 -16c-115 0 -208 93 -208 208s93 208 208 208s208 -93 208 -208s-93 -208 -208 -208zM176 96l96 96l-96 96v-192z" />
+    <glyph glyph-name="fidemicons-android-arrow-dropright" unicode="&#xf10b;" horiz-adv-x="128" 
+d="M0 320l128 -128l-128 -128v256z" />
+  </font>
+</defs></svg>

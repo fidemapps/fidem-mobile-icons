@@ -1,0 +1,27 @@
+// Fidem icons Font Path
+// --------------------------
+
+@font-face {
+ font-family: $fidemicons-font-family;
+ src:url("#{$fidemicons-font-path}/#{$fidemicons-font-file-name}.eot?v=#{$fidemicons-version}");
+ src:url("#{$fidemicons-font-path}/#{$fidemicons-font-file-name}.eot?v=#{$fidemicons-version}#iefix") format("embedded-opentype"),
+  url("#{$fidemicons-font-path}/#{$fidemicons-font-file-name}.ttf?v=#{$fidemicons-version}") format("truetype"),
+  url("#{$fidemicons-font-path}/#{$fidemicons-font-file-name}.woff?v=#{$fidemicons-version}") format("woff"),
+  url("#{$fidemicons-font-path}/#{$fidemicons-font-file-name}.svg?v=#{$fidemicons-version}#Fidemicons") format("svg");
+ font-weight: normal;
+ font-style: normal;
+}
+
+.ion {
+  display: inline-block;
+  font-family: $fidemicons-font-family;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-rendering: auto;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

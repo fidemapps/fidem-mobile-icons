@@ -1,0 +1,29 @@
+{
+    "ignore": [
+        "**/.*",
+        "builder",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "version": "0.1.0",
+    "name": "Fidemicons",
+    "license": "MIT",
+    "authors": [
+        "Sebastien Guimont <sguimont@fidem360.com>"
+    ],
+    "keywords": [
+        "fonts",
+        "icon font",
+        "icons",
+        "fidem",
+        "web font"
+    ],
+    "main": [
+        "css/fidemicons.css",
+        "fonts/*"
+    ],
+    "homepage": "https://github.com/fidemapps/fidem-mobile-icons",
+    "description": "Fidemicons - free and beautiful icons from the creators of Fidem 360"
+}
