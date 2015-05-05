@@ -1,5 +1,5 @@
 {
-  "build_hash": "f8604996dd5d7e0cf54dc575039de202",
+  "build_hash": "d037cc87d70369a6af833603a6baa909",
   "prefix": "fidem-",
   "version": "0.1.0",
   "name": "Fidemicons",
@@ -67,6 +67,22 @@
     {
       "code": "0xf10a",
       "name": "android-arrow-dropright-circle"
+    },
+    {
+      "code": "0xf10c",
+      "name": "share"
+    },
+    {
+      "code": "0xf10d",
+      "name": "share_outline"
+    },
+    {
+      "code": "0xf10e",
+      "name": "visit"
+    },
+    {
+      "code": "0xf10f",
+      "name": "visit_outline"
     }
   ]
 }

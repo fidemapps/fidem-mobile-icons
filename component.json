@@ -1,5 +1,5 @@
 {
-    "repo": "fidemapps/fidemicons",
+    "repo": "fidemapps/fidem-mobile-icons",
     "development": {},
     "version": "0.1.0",
     "styles": [
@@ -15,5 +15,5 @@
         "fonts/fidemicons.ttf",
         "fonts/fidemicons.woff"
     ],
-    "description": "The premium icon font for Fidem 360 Mobile."
+    "description": "The premium icon font for Fidem Mobile 360."
 }

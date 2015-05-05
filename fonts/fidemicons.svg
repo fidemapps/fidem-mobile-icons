@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2015-5-4: Created with FontForge (http://fontforge.org)
+2015-5-5: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150501 at Mon May 04 16:16:04 2015
+Created by FontForge 20150501 at Tue May 05 10:19:43 2015
 
 Copyright (c) 2015, Anonymous
 </metadata>
@@ -19,7 +19,7 @@ Copyright (c) 2015, Anonymous
     panose-1="2 0 7 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="-0.484021 -32 448.484 416"
+    bbox="-0.484021 -644 452 416"
     underline-thickness="25.6"
     underline-position="-51.2"
     unicode-range="U+F100-F35B"
@@ -58,5 +58,16 @@ d="M128 320v-256l-128 128z" />
 d="M208 -16c-115 0 -208 93 -208 208s93 208 208 208s208 -93 208 -208s-93 -208 -208 -208zM176 96l96 96l-96 96v-192z" />
     <glyph glyph-name="fidemicons-android-arrow-dropright" unicode="&#xf10b;" horiz-adv-x="128" 
 d="M0 320l128 -128l-128 -128v256z" />
+    <glyph glyph-name="fidemicons-share" unicode="&#xf10c;" horiz-adv-x="452" 
+d="M16 -597h-16c0 240 194 264 251 266v94l201 -149l-201 -148v93c-177 -6 -235 -107 -235 -156z" />
+    <glyph glyph-name="fidemicons-share_outline" unicode="&#xf10d;" horiz-adv-x="452" 
+d="M16 -597h-16c0 240 194 264 251 266v94l201 -149l-201 -148v93c-177 -6 -235 -107 -235 -156zM266 -268v-78h-7c-165 0 -218 -107 -235 -183c33 50 104 102 234 104h8v-78l160 117z" />
+    <glyph glyph-name="fidemicons-visit" unicode="&#xf10e;" horiz-adv-x="445" 
+d="M387 -426l58 -215l-109 50l-113 -53l-113 53l-110 -50l58 215l64 22c-6 11 -10 21 -15 32c-8 17 -13 35 -13 54c0 70 58 128 129 128s128 -58 128 -128c0 -19 -5 -37 -13 -54c-5 -11 -9 -22 -15 -32zM336 -574l87 -40l-48 176l-59 20c-38 -69 -86 -126 -87 -127l-6 -7
+l-6 7c-1 1 -49 58 -87 127l-59 -20l-48 -176l87 40l113 -53zM165 -316c0 -32 26 -58 58 -58s57 26 57 58s-25 57 -57 57s-58 -25 -58 -57z" />
+    <glyph glyph-name="fidemicons-visit_outline" unicode="&#xf10f;" horiz-adv-x="445" 
+d="M283 -316c0 -33 -27 -61 -60 -61s-61 28 -61 61s28 60 61 60s60 -27 60 -60zM177 -316c0 -25 21 -46 46 -46s45 21 45 46s-20 45 -45 45s-46 -20 -46 -45zM387 -426l58 -215l-109 50l-113 -53l-113 53l-110 -50l58 215l64 22c-6 11 -10 21 -15 32c-8 17 -13 35 -13 54
+c0 70 58 128 129 128s128 -58 128 -128c0 -19 -5 -37 -13 -54c-5 -11 -9 -22 -15 -32zM110 -318c0 -17 3 -33 10 -48c31 -71 85 -141 103 -163c18 22 71 92 102 163c7 16 11 31 11 48c0 62 -51 113 -113 113s-113 -51 -113 -113zM336 -574l87 -40l-48 176l-59 20
+c-38 -69 -86 -126 -87 -127l-6 -7l-6 7c-1 1 -49 58 -87 127l-59 -20l-48 -176l87 40l113 -53z" />
   </font>
 </defs></svg>

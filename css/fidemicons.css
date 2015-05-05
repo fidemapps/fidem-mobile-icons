@@ -4,7 +4,7 @@
   Created by Sebastien Guimont, for Fidem 360 Inc.
 */
 @font-face { font-family: "Fidemicons"; src: url("../fonts/fidemicons.eot?v=0.1.0"); src: url("../fonts/fidemicons.eot?v=0.1.0#iefix") format("embedded-opentype"), url("../fonts/fidemicons.ttf?v=0.1.0") format("truetype"), url("../fonts/fidemicons.woff?v=0.1.0") format("woff"), url("../fonts/fidemicons.svg?v=0.1.0#Fidemicons") format("svg"); font-weight: normal; font-style: normal; }
-.ion, .fidemicons, .fidem-alert:before, .fidem-alert-circled:before, .fidem-android-add:before, .fidem-android-add-circle:before, .fidem-android-alarm-clock:before, .fidem-android-alert:before, .fidem-android-apps:before, .fidem-android-archive:before, .fidem-android-arrow-back:before, .fidem-android-arrow-down:before, .fidem-android-arrow-dropdown:before, .fidem-android-arrow-dropdown-circle:before, .fidem-android-arrow-dropleft:before, .fidem-android-arrow-dropleft-circle:before, .fidem-android-arrow-dropright:before, .fidem-android-arrow-dropright-circle:before { display: inline-block; font-family: "Fidemicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion, .fidemicons, .fidem-alert:before, .fidem-alert-circled:before, .fidem-android-add:before, .fidem-android-add-circle:before, .fidem-android-alarm-clock:before, .fidem-android-alert:before, .fidem-android-apps:before, .fidem-android-archive:before, .fidem-android-arrow-back:before, .fidem-android-arrow-down:before, .fidem-android-arrow-dropdown:before, .fidem-android-arrow-dropdown-circle:before, .fidem-android-arrow-dropleft:before, .fidem-android-arrow-dropleft-circle:before, .fidem-android-arrow-dropright:before, .fidem-android-arrow-dropright-circle:before, .fidem-share:before, .fidem-share_outline:before, .fidem-visit:before, .fidem-visit_outline:before { display: inline-block; font-family: "Fidemicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .fidem-alert:before { content: ""; }
 
@@ -37,5 +37,13 @@
 .fidem-android-arrow-dropright:before { content: ""; }
 
 .fidem-android-arrow-dropright-circle:before { content: ""; }
+
+.fidem-share:before { content: ""; }
+
+.fidem-share_outline:before { content: ""; }
+
+.fidem-visit:before { content: ""; }
+
+.fidem-visit_outline:before { content: ""; }
 
 /*# sourceMappingURL=fidemicons.css.map */
