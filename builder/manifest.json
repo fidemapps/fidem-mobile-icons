@@ -1,72 +1,60 @@
 {
-  "build_hash": "4090526cd91c924d20e524779ab11207",
+  "build_hash": "3adb2c2c10bc74f128f263202a475c0e",
   "prefix": "fidem-",
   "version": "0.1.0",
   "name": "Fidemicons",
   "icons": [
-    {
-      "code": "0xf101",
-      "name": "alert"
+   {
+      "code": "0xf110",
+      "name": "arrow-01"
     },
     {
-      "code": "0xf100",
-      "name": "alert-circled"
+      "code": "0xf111",
+      "name": "arrow-02"
     },
     {
-      "code": "0xf2c7",
-      "name": "android-add"
+      "code": "0xf112",
+      "name": "badge"
     },
     {
-      "code": "0xf359",
-      "name": "android-add-circle"
+      "code": "0xf113",
+      "name": "fb-01"
     },
     {
-      "code": "0xf35a",
-      "name": "android-alarm-clock"
+      "code": "0xf114",
+      "name": "fb-02"
     },
     {
-      "code": "0xf35b",
-      "name": "android-alert"
+      "code": "0xf115",
+      "name": "gift"
     },
     {
-      "code": "0xf102",
-      "name": "android-apps"
+      "code": "0xf116",
+      "name": "like"
     },
     {
-      "code": "0xf103",
-      "name": "android-archive"
+      "code": "0xf117",
+      "name": "locked"
     },
     {
-      "code": "0xf104",
-      "name": "android-arrow-back"
+      "code": "0xf118",
+      "name": "menu"
     },
     {
-      "code": "0xf105",
-      "name": "android-arrow-down"
+      "code": "0xf119",
+      "name": "message"
     },
     {
-      "code": "0xf107",
-      "name": "android-arrow-dropdown"
+      "code": "0xf11a",
+      "name": "news"
     },
     {
-      "code": "0xf106",
-      "name": "android-arrow-dropdown-circle"
+      "code": "0xf11b",
+      "name": "profil"
     },
     {
-      "code": "0xf109",
-      "name": "android-arrow-dropleft"
-    },
-    {
-      "code": "0xf108",
-      "name": "android-arrow-dropleft-circle"
-    },
-    {
-      "code": "0xf10b",
-      "name": "android-arrow-dropright"
-    },
-    {
-      "code": "0xf10a",
-      "name": "android-arrow-dropright-circle"
+      "code": "0xf11c",
+      "name": "settings"
     },
     {
       "code": "0xf10c",
@@ -75,6 +63,14 @@
     {
       "code": "0xf10d",
       "name": "share_outline"
+    },
+    {
+      "code": "0xf11d",
+      "name": "shop"
+    },
+    {
+      "code": "0xf11e",
+      "name": "star"
     },
     {
       "code": "0xf10e",

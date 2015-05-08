@@ -2,7 +2,14 @@
 <!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="-1471 609 512 512" enable-background="new -1471 609 512 512" xml:space="preserve">
-<path d="M-1425.3,1045.1h-15.7c0-240.4,194.1-264.4,250.7-266.2v-94l201.2,148.7l-201.2,148.7v-93.7
-	C-1367.6,894.3-1425.3,995.9-1425.3,1045.1z"/>
+	 viewBox="130 -184 512 512" enable-background="new 130 -184 512 512" xml:space="preserve">
+<g>
+	<g>
+		<polygon fill="#231F20" points="425.5,-28.1 425.5,-10.8 534.6,-10.8 534.6,283.7 225.4,283.7 225.4,-10.8 334.6,-10.8 
+			334.6,-28.1 207.2,-28.1 207.2,301 552.8,301 552.8,-28.1 		"/>
+		<path fill="#231F20" d="M309.9-70.4c1.7,1.7,4.3,1.7,5.9,0.1l55.1-53.1v259.9h18.2v-262.2l59.2,56.4c1.6,1.6,4.3,1.5,5.9-0.1
+			l7.5-6.8c1.7-1.7,1.7-4.3,0.1-5.9l-68.5-65.4c-0.2-0.8-0.5-1.7-1.2-2.3l-6.9-6.9c-1.6-1.7-4.4-1.7-5.9-0.1l-76.3,73.6
+			c-1.6,1.6-1.6,4.2,0.1,5.9L309.9-70.4z"/>
+	</g>
+</g>
 </svg>
