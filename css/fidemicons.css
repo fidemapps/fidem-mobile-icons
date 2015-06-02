@@ -4,7 +4,7 @@
   Created by Sebastien Guimont, for Fidem 360 Inc.
 */
 @font-face { font-family: "Fidemicons"; src: url("../fonts/fidemicons.eot?v=0.1.1"); src: url("../fonts/fidemicons.eot?v=0.1.1#iefix") format("embedded-opentype"), url("../fonts/fidemicons.ttf?v=0.1.1") format("truetype"), url("../fonts/fidemicons.woff?v=0.1.1") format("woff"), url("../fonts/fidemicons.svg?v=0.1.1#Fidemicons") format("svg"); font-weight: normal; font-style: normal; }
-.ion, .fidemicons, .fidem-arrow-01:before, .fidem-arrow-02:before, .fidem-badge:before, .fidem-fb-01:before, .fidem-fb-02:before, .fidem-gift:before, .fidem-like:before, .fidem-locked:before, .fidem-menu:before, .fidem-message:before, .fidem-news:before, .fidem-profil:before, .fidem-settings:before, .fidem-share:before, .fidem-shop:before, .fidem-star:before { display: inline-block; font-family: "Fidemicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion, .fidemicons, .fidem-arrow-01:before, .fidem-arrow-02:before, .fidem-badge:before, .fidem-badge-01:before, .fidem-badge-02:before, .fidem-card:before, .fidem-check:before, .fidem-fb-01:before, .fidem-fb-02:before, .fidem-fb-03:before, .fidem-fleuryoga:before, .fidem-gift:before, .fidem-like:before, .fidem-localiser:before, .fidem-locked:before, .fidem-megaphone:before, .fidem-menu:before, .fidem-menu2:before, .fidem-message:before, .fidem-more:before, .fidem-news:before, .fidem-nuage:before, .fidem-profil:before, .fidem-search:before, .fidem-settings:before, .fidem-share:before, .fidem-share2:before, .fidem-shop:before, .fidem-star:before, .fidem-vente:before { display: inline-block; font-family: "Fidemicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .fidem-arrow-01:before { content: ""; }
 
@@ -12,30 +12,58 @@
 
 .fidem-badge:before { content: ""; }
 
+.fidem-badge-01:before { content: ""; }
+
+.fidem-badge-02:before { content: ""; }
+
+.fidem-card:before { content: ""; }
+
+.fidem-check:before { content: ""; }
+
 .fidem-fb-01:before { content: ""; }
 
 .fidem-fb-02:before { content: ""; }
+
+.fidem-fb-03:before { content: ""; }
+
+.fidem-fleuryoga:before { content: ""; }
 
 .fidem-gift:before { content: ""; }
 
 .fidem-like:before { content: ""; }
 
+.fidem-localiser:before { content: ""; }
+
 .fidem-locked:before { content: ""; }
+
+.fidem-megaphone:before { content: ""; }
 
 .fidem-menu:before { content: ""; }
 
+.fidem-menu2:before { content: ""; }
+
 .fidem-message:before { content: ""; }
+
+.fidem-more:before { content: ""; }
 
 .fidem-news:before { content: ""; }
 
+.fidem-nuage:before { content: ""; }
+
 .fidem-profil:before { content: ""; }
+
+.fidem-search:before { content: ""; }
 
 .fidem-settings:before { content: ""; }
 
 .fidem-share:before { content: ""; }
 
+.fidem-share2:before { content: ""; }
+
 .fidem-shop:before { content: ""; }
 
 .fidem-star:before { content: ""; }
+
+.fidem-vente:before { content: ""; }
 
 /*# sourceMappingURL=fidemicons.css.map */
