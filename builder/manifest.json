@@ -1,7 +1,7 @@
 {
-  "build_hash": "cc24be0fdd70342966ee9d2338081016",
+  "build_hash": "86f3fd9f717b965a018ba149112f9fd1",
   "prefix": "fidem-",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "name": "Fidemicons",
   "icons": [
     {
@@ -33,6 +33,10 @@
       "name": "check"
     },
     {
+      "code": "0xf121",
+      "name": "codebar"
+    },
+    {
       "code": "0xf113",
       "name": "fb-01"
     },
@@ -43,6 +47,14 @@
     {
       "code": "0xf104",
       "name": "fb-03"
+    },
+    {
+      "code": "0xf122",
+      "name": "fb-04"
+    },
+    {
+      "code": "0xf123",
+      "name": "fb-05"
     },
     {
       "code": "0xf105",
@@ -75,6 +87,10 @@
     {
       "code": "0xf108",
       "name": "menu2"
+    },
+    {
+      "code": "0xf124",
+      "name": "menu3"
     },
     {
       "code": "0xf119",

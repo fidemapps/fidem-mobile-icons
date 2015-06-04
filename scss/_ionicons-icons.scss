@@ -9,9 +9,12 @@
 .#{$fidemicons-prefix}badge-02:before,
 .#{$fidemicons-prefix}card:before,
 .#{$fidemicons-prefix}check:before,
+.#{$fidemicons-prefix}codebar:before,
 .#{$fidemicons-prefix}fb-01:before,
 .#{$fidemicons-prefix}fb-02:before,
 .#{$fidemicons-prefix}fb-03:before,
+.#{$fidemicons-prefix}fb-04:before,
+.#{$fidemicons-prefix}fb-05:before,
 .#{$fidemicons-prefix}fleuryoga:before,
 .#{$fidemicons-prefix}gift:before,
 .#{$fidemicons-prefix}like:before,
@@ -20,6 +23,7 @@
 .#{$fidemicons-prefix}megaphone:before,
 .#{$fidemicons-prefix}menu:before,
 .#{$fidemicons-prefix}menu2:before,
+.#{$fidemicons-prefix}menu3:before,
 .#{$fidemicons-prefix}message:before,
 .#{$fidemicons-prefix}more:before,
 .#{$fidemicons-prefix}news:before,
@@ -31,7 +35,8 @@
 .#{$fidemicons-prefix}share2:before,
 .#{$fidemicons-prefix}shop:before,
 .#{$fidemicons-prefix}star:before,
-.#{$fidemicons-prefix}vente:before
+.#{$fidemicons-prefix}vente:before,
+.#{$fidemicons-prefix}visit:before
 {
   @extend .ion;
 }
@@ -42,9 +47,12 @@
 .#{$fidemicons-prefix}badge-02:before { content: $fidemicons-var-badge-02; }
 .#{$fidemicons-prefix}card:before { content: $fidemicons-var-card; }
 .#{$fidemicons-prefix}check:before { content: $fidemicons-var-check; }
+.#{$fidemicons-prefix}codebar:before { content: $fidemicons-var-codebar; }
 .#{$fidemicons-prefix}fb-01:before { content: $fidemicons-var-fb-01; }
 .#{$fidemicons-prefix}fb-02:before { content: $fidemicons-var-fb-02; }
 .#{$fidemicons-prefix}fb-03:before { content: $fidemicons-var-fb-03; }
+.#{$fidemicons-prefix}fb-04:before { content: $fidemicons-var-fb-04; }
+.#{$fidemicons-prefix}fb-05:before { content: $fidemicons-var-fb-05; }
 .#{$fidemicons-prefix}fleuryoga:before { content: $fidemicons-var-fleuryoga; }
 .#{$fidemicons-prefix}gift:before { content: $fidemicons-var-gift; }
 .#{$fidemicons-prefix}like:before { content: $fidemicons-var-like; }
@@ -53,6 +61,7 @@
 .#{$fidemicons-prefix}megaphone:before { content: $fidemicons-var-megaphone; }
 .#{$fidemicons-prefix}menu:before { content: $fidemicons-var-menu; }
 .#{$fidemicons-prefix}menu2:before { content: $fidemicons-var-menu2; }
+.#{$fidemicons-prefix}menu3:before { content: $fidemicons-var-menu3; }
 .#{$fidemicons-prefix}message:before { content: $fidemicons-var-message; }
 .#{$fidemicons-prefix}more:before { content: $fidemicons-var-more; }
 .#{$fidemicons-prefix}news:before { content: $fidemicons-var-news; }
@@ -65,3 +74,4 @@
 .#{$fidemicons-prefix}shop:before { content: $fidemicons-var-shop; }
 .#{$fidemicons-prefix}star:before { content: $fidemicons-var-star; }
 .#{$fidemicons-prefix}vente:before { content: $fidemicons-var-vente; }
+.#{$fidemicons-prefix}visit:before { content: $fidemicons-var-visit; }
