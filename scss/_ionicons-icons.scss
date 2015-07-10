@@ -4,19 +4,28 @@
 .fidemicons,
 .#{$fidemicons-prefix}arrow-01:before,
 .#{$fidemicons-prefix}arrow-02:before,
+.#{$fidemicons-prefix}arrow-03:before,
+.#{$fidemicons-prefix}arrow-back:before,
+.#{$fidemicons-prefix}attractions:before,
 .#{$fidemicons-prefix}badge:before,
 .#{$fidemicons-prefix}badge-01:before,
 .#{$fidemicons-prefix}badge-02:before,
+.#{$fidemicons-prefix}bed:before,
+.#{$fidemicons-prefix}calendar:before,
 .#{$fidemicons-prefix}card:before,
 .#{$fidemicons-prefix}check:before,
 .#{$fidemicons-prefix}codebar:before,
+.#{$fidemicons-prefix}family:before,
 .#{$fidemicons-prefix}fb-01:before,
 .#{$fidemicons-prefix}fb-02:before,
 .#{$fidemicons-prefix}fb-03:before,
 .#{$fidemicons-prefix}fb-04:before,
 .#{$fidemicons-prefix}fb-05:before,
+.#{$fidemicons-prefix}fb-06:before,
+.#{$fidemicons-prefix}festival:before,
 .#{$fidemicons-prefix}fleuryoga:before,
 .#{$fidemicons-prefix}gift:before,
+.#{$fidemicons-prefix}lgbt:before,
 .#{$fidemicons-prefix}like:before,
 .#{$fidemicons-prefix}localiser:before,
 .#{$fidemicons-prefix}locked:before,
@@ -25,16 +34,26 @@
 .#{$fidemicons-prefix}menu2:before,
 .#{$fidemicons-prefix}menu3:before,
 .#{$fidemicons-prefix}message:before,
+.#{$fidemicons-prefix}mode:before,
 .#{$fidemicons-prefix}more:before,
+.#{$fidemicons-prefix}mtl_acces_card:before,
+.#{$fidemicons-prefix}museum:before,
 .#{$fidemicons-prefix}news:before,
+.#{$fidemicons-prefix}nightlife:before,
 .#{$fidemicons-prefix}nuage:before,
+.#{$fidemicons-prefix}outside:before,
 .#{$fidemicons-prefix}profil:before,
+.#{$fidemicons-prefix}promotions:before,
+.#{$fidemicons-prefix}restaurant:before,
 .#{$fidemicons-prefix}search:before,
 .#{$fidemicons-prefix}settings:before,
 .#{$fidemicons-prefix}share:before,
 .#{$fidemicons-prefix}share2:before,
 .#{$fidemicons-prefix}shop:before,
 .#{$fidemicons-prefix}star:before,
+.#{$fidemicons-prefix}taxi:before,
+.#{$fidemicons-prefix}transport:before,
+.#{$fidemicons-prefix}twitter-01:before,
 .#{$fidemicons-prefix}vente:before,
 .#{$fidemicons-prefix}visit:before
 {
@@ -42,19 +61,28 @@
 }
 .#{$fidemicons-prefix}arrow-01:before { content: $fidemicons-var-arrow-01; }
 .#{$fidemicons-prefix}arrow-02:before { content: $fidemicons-var-arrow-02; }
+.#{$fidemicons-prefix}arrow-03:before { content: $fidemicons-var-arrow-03; }
+.#{$fidemicons-prefix}arrow-back:before { content: $fidemicons-var-arrow-back; }
+.#{$fidemicons-prefix}attractions:before { content: $fidemicons-var-attractions; }
 .#{$fidemicons-prefix}badge:before { content: $fidemicons-var-badge; }
 .#{$fidemicons-prefix}badge-01:before { content: $fidemicons-var-badge-01; }
 .#{$fidemicons-prefix}badge-02:before { content: $fidemicons-var-badge-02; }
+.#{$fidemicons-prefix}bed:before { content: $fidemicons-var-bed; }
+.#{$fidemicons-prefix}calendar:before { content: $fidemicons-var-calendar; }
 .#{$fidemicons-prefix}card:before { content: $fidemicons-var-card; }
 .#{$fidemicons-prefix}check:before { content: $fidemicons-var-check; }
 .#{$fidemicons-prefix}codebar:before { content: $fidemicons-var-codebar; }
+.#{$fidemicons-prefix}family:before { content: $fidemicons-var-family; }
 .#{$fidemicons-prefix}fb-01:before { content: $fidemicons-var-fb-01; }
 .#{$fidemicons-prefix}fb-02:before { content: $fidemicons-var-fb-02; }
 .#{$fidemicons-prefix}fb-03:before { content: $fidemicons-var-fb-03; }
 .#{$fidemicons-prefix}fb-04:before { content: $fidemicons-var-fb-04; }
 .#{$fidemicons-prefix}fb-05:before { content: $fidemicons-var-fb-05; }
+.#{$fidemicons-prefix}fb-06:before { content: $fidemicons-var-fb-06; }
+.#{$fidemicons-prefix}festival:before { content: $fidemicons-var-festival; }
 .#{$fidemicons-prefix}fleuryoga:before { content: $fidemicons-var-fleuryoga; }
 .#{$fidemicons-prefix}gift:before { content: $fidemicons-var-gift; }
+.#{$fidemicons-prefix}lgbt:before { content: $fidemicons-var-lgbt; }
 .#{$fidemicons-prefix}like:before { content: $fidemicons-var-like; }
 .#{$fidemicons-prefix}localiser:before { content: $fidemicons-var-localiser; }
 .#{$fidemicons-prefix}locked:before { content: $fidemicons-var-locked; }
@@ -63,15 +91,25 @@
 .#{$fidemicons-prefix}menu2:before { content: $fidemicons-var-menu2; }
 .#{$fidemicons-prefix}menu3:before { content: $fidemicons-var-menu3; }
 .#{$fidemicons-prefix}message:before { content: $fidemicons-var-message; }
+.#{$fidemicons-prefix}mode:before { content: $fidemicons-var-mode; }
 .#{$fidemicons-prefix}more:before { content: $fidemicons-var-more; }
+.#{$fidemicons-prefix}mtl_acces_card:before { content: $fidemicons-var-mtl_acces_card; }
+.#{$fidemicons-prefix}museum:before { content: $fidemicons-var-museum; }
 .#{$fidemicons-prefix}news:before { content: $fidemicons-var-news; }
+.#{$fidemicons-prefix}nightlife:before { content: $fidemicons-var-nightlife; }
 .#{$fidemicons-prefix}nuage:before { content: $fidemicons-var-nuage; }
+.#{$fidemicons-prefix}outside:before { content: $fidemicons-var-outside; }
 .#{$fidemicons-prefix}profil:before { content: $fidemicons-var-profil; }
+.#{$fidemicons-prefix}promotions:before { content: $fidemicons-var-promotions; }
+.#{$fidemicons-prefix}restaurant:before { content: $fidemicons-var-restaurant; }
 .#{$fidemicons-prefix}search:before { content: $fidemicons-var-search; }
 .#{$fidemicons-prefix}settings:before { content: $fidemicons-var-settings; }
 .#{$fidemicons-prefix}share:before { content: $fidemicons-var-share; }
 .#{$fidemicons-prefix}share2:before { content: $fidemicons-var-share2; }
 .#{$fidemicons-prefix}shop:before { content: $fidemicons-var-shop; }
 .#{$fidemicons-prefix}star:before { content: $fidemicons-var-star; }
+.#{$fidemicons-prefix}taxi:before { content: $fidemicons-var-taxi; }
+.#{$fidemicons-prefix}transport:before { content: $fidemicons-var-transport; }
+.#{$fidemicons-prefix}twitter-01:before { content: $fidemicons-var-twitter-01; }
 .#{$fidemicons-prefix}vente:before { content: $fidemicons-var-vente; }
 .#{$fidemicons-prefix}visit:before { content: $fidemicons-var-visit; }
