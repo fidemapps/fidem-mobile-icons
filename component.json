@@ -1,7 +1,7 @@
 {
     "repo": "fidemapps/fidem-mobile-icons",
     "development": {},
-    "version": "0.1.5",
+    "version": "0.1.6",
     "styles": [
         "css/fidemicons.css"
     ],
