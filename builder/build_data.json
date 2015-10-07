@@ -1,5 +1,5 @@
 {
-  "build_hash": "86f3fd9f717b965a018ba149112f9fd1",
+  "build_hash": "9a067eeeee532ff303cc34ad680d9700",
   "prefix": "fidem-",
   "version": "0.1.4",
   "name": "Fidemicons",
@@ -47,6 +47,10 @@
     {
       "code": "0xf102",
       "name": "card"
+    },
+    {
+      "code": "0xf138",
+      "name": "challenges"
     },
     {
       "code": "0xf103",
@@ -153,6 +157,10 @@
       "name": "news"
     },
     {
+      "code": "0xf139",
+      "name": "news-02"
+    },
+    {
       "code": "0xf131",
       "name": "nightlife"
     },
@@ -167,6 +175,10 @@
     {
       "code": "0xf11b",
       "name": "profil"
+    },
+    {
+      "code": "0xf13a",
+      "name": "profile"
     },
     {
       "code": "0xf133",
